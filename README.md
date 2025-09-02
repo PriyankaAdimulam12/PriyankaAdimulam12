@@ -1,6 +1,6 @@
-## Hi there 👋
+## 
 
-<h1 align="center">Hi 👋, I'm Priyanka Adimulam</h1>
+<h1 align="center">Hi there 👋, I'm Priyanka Adimulam</h1>
 <h3 align="center">A Passionate Data Science enthusiast from India.. Turning Data into Actionable Insights | Data Science & ML</h3>
 
 - 🔭 I’m currently working on **Data Science projects..**
