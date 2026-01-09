@@ -39,7 +39,7 @@ I enjoy working across the full data science lifecycle — from data cleaning an
 - ChromaDB (Vector Database)  
 
 🔹 Tools & Platforms
-- Git, GitHub, Jupyter Notebook  
+- GitHub, Jupyter Notebook  
 - Streamlit (Model Deployment)  
 - Oracle Cloud Infrastructure
 
@@ -56,9 +56,6 @@ I enjoy working across the full data science lifecycle — from data cleaning an
 🔹 Zomato Restaurant Data Insights
 - Performed data cleaning, exploratory data analysis, and visualization to extract business insights from restaurant data.
 
-📈 GitHub Stats
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 
 🔗 Connect With Me
